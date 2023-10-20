@@ -1,0 +1,48 @@
+body{
+  background-image: url("C:\Users\reddo\OneDrive\Imágenes\fotos camara\React App_files\thumb-1920-900628.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.App-header {
+  text-align: center;
+  background-color: skyblue;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: 25px;
+  border: 2px solid skyblue;
+  background-image: url("C:\Users\reddo\OneDrive\Imágenes\fotos camara\React App_files\75bc7f8a51ad127c5a1e0a3cee412c04.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.titulo{
+
+  font-size: 35px;
+
+
+}
+
+.App2{
+
+text-align: center;
+
+}
+
+.publicaciones{
+  background-color: skyblue;
+  float: left;
+  font-size: 30px; 
+  border: 2px solid black;
+  border-radius: 10%;
+  margin-top: 2%;
+  margin-left: 2%;
+  padding-top: 3px;
+  padding-left: 3px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  opacity: 0.4;
+}
+
